@@ -17,7 +17,13 @@
     }
   },
   "initialPermissions": {
-    "snap_notify": {}
+    "snap_getBip44Entropy_1": {},
+    "snap_getBip44Entropy_60": {},
+    "snap_getBip44Entropy_156": {},
+    "snap_getBip44Entropy_2000": {},
+    "snap_getBip44Entropy_3": {},
+    "snap_getBip44Entropy_400": {},
+    "snap_getBip44Entropy_20": {}
   },
   "manifestVersion": "0.1"
 }
