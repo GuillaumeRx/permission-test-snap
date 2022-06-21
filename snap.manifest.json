@@ -7,11 +7,11 @@
     "url": "https://github.com/MetaMask/snap-template.git"
   },
   "source": {
-    "shasum": "XmDWS41f96r2YPSFkcMWA2QGJzRohW3DGvWGWs2GGmY=",
+    "shasum": "6qzW74b/Mu5BkM6DcyJsABp6m9LnPs0Arvg3GiyJsxg=",
     "location": {
       "npm": {
         "filePath": "dist/bundle.js",
-        "packageName": "notification-snap",
+        "packageName": "permission-snap",
         "registry": "https://registry.npmjs.org/"
       }
     }
